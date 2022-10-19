@@ -1,7 +1,8 @@
-package com.example.ca_proverka
+package com.example.ca_proverka.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.ca_proverka.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
