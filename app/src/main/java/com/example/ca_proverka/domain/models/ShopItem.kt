@@ -1,4 +1,4 @@
-package com.example.ca_proverka.domain
+package com.example.ca_proverka.domain.models
 
 data class ShopItem(
     val id : Int,
